@@ -4,7 +4,7 @@
 <div align="center">
 <h2> About Me </h2>
   <h5>안녕하세요! 주니어 개발자 안휘주입니다!</h5>
-  <h5>🎓멀티캠퍼스 풀스택 개발자 취업캠프 수료중 </h5>
+  <h5>🎓멀티캠퍼스 풀스택 개발자 취업캠프 수료 </h5>
   <h5>📓 Notion : https://ineedu.notion.site/ineedu/An-huyjoo-7a7bc854fd8a4984b9d507027d26a4c3</h5>
   <br>
   
